@@ -1,0 +1,15 @@
+C:\Users\kkass\source\repos\StringComparerNET\StringComparerNET\bin\Release\net7.0\win-x64\StringComparerNET.exe
+C:\Users\kkass\source\repos\StringComparerNET\StringComparerNET\bin\Release\net7.0\win-x64\StringComparerNET.deps.json
+C:\Users\kkass\source\repos\StringComparerNET\StringComparerNET\bin\Release\net7.0\win-x64\StringComparerNET.runtimeconfig.json
+C:\Users\kkass\source\repos\StringComparerNET\StringComparerNET\bin\Release\net7.0\win-x64\StringComparerNET.dll
+C:\Users\kkass\source\repos\StringComparerNET\StringComparerNET\bin\Release\net7.0\win-x64\StringComparerNET.pdb
+C:\Users\kkass\source\repos\StringComparerNET\StringComparerNET\obj\Release\net7.0\win-x64\StringComparerNET.csproj.AssemblyReference.cache
+C:\Users\kkass\source\repos\StringComparerNET\StringComparerNET\obj\Release\net7.0\win-x64\StringComparerNET.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kkass\source\repos\StringComparerNET\StringComparerNET\obj\Release\net7.0\win-x64\StringComparerNET.AssemblyInfoInputs.cache
+C:\Users\kkass\source\repos\StringComparerNET\StringComparerNET\obj\Release\net7.0\win-x64\StringComparerNET.AssemblyInfo.cs
+C:\Users\kkass\source\repos\StringComparerNET\StringComparerNET\obj\Release\net7.0\win-x64\StringComparerNET.csproj.CoreCompileInputs.cache
+C:\Users\kkass\source\repos\StringComparerNET\StringComparerNET\obj\Release\net7.0\win-x64\StringComparerNET.dll
+C:\Users\kkass\source\repos\StringComparerNET\StringComparerNET\obj\Release\net7.0\win-x64\refint\StringComparerNET.dll
+C:\Users\kkass\source\repos\StringComparerNET\StringComparerNET\obj\Release\net7.0\win-x64\StringComparerNET.pdb
+C:\Users\kkass\source\repos\StringComparerNET\StringComparerNET\obj\Release\net7.0\win-x64\StringComparerNET.genruntimeconfig.cache
+C:\Users\kkass\source\repos\StringComparerNET\StringComparerNET\obj\Release\net7.0\win-x64\ref\StringComparerNET.dll

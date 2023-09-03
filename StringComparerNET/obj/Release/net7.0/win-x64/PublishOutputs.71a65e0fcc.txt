@@ -1,0 +1,2 @@
+C:\Users\kkass\source\repos\StringComparerNET\StringComparerNET\bin\Release\net7.0\win-x64\publish\StringComparerNET.pdb
+C:\Users\kkass\source\repos\StringComparerNET\StringComparerNET\bin\Release\net7.0\win-x64\publish\StringComparerNET.exe

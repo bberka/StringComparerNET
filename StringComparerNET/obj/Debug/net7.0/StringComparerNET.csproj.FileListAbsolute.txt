@@ -1,0 +1,15 @@
+C:\Users\kkass\source\repos\StringComparerNET\StringComparerNET\bin\Debug\net7.0\StringComparerNET.exe
+C:\Users\kkass\source\repos\StringComparerNET\StringComparerNET\bin\Debug\net7.0\StringComparerNET.deps.json
+C:\Users\kkass\source\repos\StringComparerNET\StringComparerNET\bin\Debug\net7.0\StringComparerNET.runtimeconfig.json
+C:\Users\kkass\source\repos\StringComparerNET\StringComparerNET\bin\Debug\net7.0\StringComparerNET.dll
+C:\Users\kkass\source\repos\StringComparerNET\StringComparerNET\bin\Debug\net7.0\StringComparerNET.pdb
+C:\Users\kkass\source\repos\StringComparerNET\StringComparerNET\obj\Debug\net7.0\StringComparerNET.csproj.AssemblyReference.cache
+C:\Users\kkass\source\repos\StringComparerNET\StringComparerNET\obj\Debug\net7.0\StringComparerNET.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kkass\source\repos\StringComparerNET\StringComparerNET\obj\Debug\net7.0\StringComparerNET.AssemblyInfoInputs.cache
+C:\Users\kkass\source\repos\StringComparerNET\StringComparerNET\obj\Debug\net7.0\StringComparerNET.AssemblyInfo.cs
+C:\Users\kkass\source\repos\StringComparerNET\StringComparerNET\obj\Debug\net7.0\StringComparerNET.csproj.CoreCompileInputs.cache
+C:\Users\kkass\source\repos\StringComparerNET\StringComparerNET\obj\Debug\net7.0\StringComparerNET.dll
+C:\Users\kkass\source\repos\StringComparerNET\StringComparerNET\obj\Debug\net7.0\refint\StringComparerNET.dll
+C:\Users\kkass\source\repos\StringComparerNET\StringComparerNET\obj\Debug\net7.0\StringComparerNET.pdb
+C:\Users\kkass\source\repos\StringComparerNET\StringComparerNET\obj\Debug\net7.0\StringComparerNET.genruntimeconfig.cache
+C:\Users\kkass\source\repos\StringComparerNET\StringComparerNET\obj\Debug\net7.0\ref\StringComparerNET.dll
